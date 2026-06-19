@@ -2,12 +2,11 @@
 
 ## Candidate Information
 
-Name: Raz Eliyahu
-Phone: 052-849-0485
-Email: razelinew@gmail.com
-LinkedIn: https://www.linkedin.com/in/raz-eliyahu/
+**Raz Eliyahu**
 
---------------------------------------------------
+📧 razelinew@gmail.com  
+📱 052-849-0485  
+🔗 https://www.linkedin.com/in/raz-eliyahu/
 
 ## Overview
 
@@ -25,41 +24,13 @@ The script performs the following actions:
 - Verifies successful navigation to the Thank You page
 - Writes a success message to the console
 
---------------------------------------------------
-
 ## Prerequisites
 
 - Node.js
 - npm
 
---------------------------------------------------
-
 ## Installation
 
+```bash
 npm install
-
 npx playwright install
-
---------------------------------------------------
-
-## Run
-
-node tests/callback.spec.js
-
---------------------------------------------------
-
-## Deliverables
-
-Automation:
-tests/callback.spec.js
-
-QA Review:
-Jones_Final_Submission_Clean.pdf
-
---------------------------------------------------
-
-## Notes
-
-- The automation was implemented using Playwright as required in the exercise instructions.
-- The bonus requirement of changing the Number of Employees value from 1-10 to 51-500 was implemented.
-- The repository contains both the automation solution and the QA review document.
